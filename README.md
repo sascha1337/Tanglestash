@@ -2,11 +2,13 @@
 [![npm](https://img.shields.io/npm/v/tanglestash.svg)](https://www.npmjs.com/package/tanglestash)
 [![npm](https://img.shields.io/npm/dt/tanglestash.svg)](https://www.npmjs.com/package/tanglestash)
 [![daviddm](https://david-dm.org/loehnertz/Tanglestash.svg)](https://david-dm.org/loehnertz/Tanglestash)
-# Tanglestash
-IOTA meets BitTorrent: An algorithm to persist any file onto the tangle of IOTA
 
 
-## Features
+# Tanglestash Mana Edition
+IOTA meets BitTorrent: An algorithm to persist any file onto the tangle of IOTA - get prepared for Mana :100: 
+
+
+## Features Demonstrating HackMD
 
 - Persist any data onto the tangle of IOTA
 - Retrieve data that was persisted with this module beforehand
